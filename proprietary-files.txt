@@ -67,7 +67,6 @@ lib/libblueshift-opus.so
 lib/libblueshift-audioprocessing.so
 lib/libcjson.so
 lib/libsmartvolume.so
-lib/libaudio-resampler.so
 lib/libmediacodecservice.so
 lib/libmediacodecloggerservice.so
 vendor/lib/libmhalImageCodec.so
