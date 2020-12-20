@@ -213,3 +213,6 @@ MALLOC_SVELTE := true
 
 # Disable API check
 WITHOUT_CHECK_API := true
+
+#Build system as root
+BOARD_BUILD_SYSTEM_ROOT_IMAGE := true
