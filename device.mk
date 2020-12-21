@@ -62,7 +62,7 @@ PRODUCT_PACKAGES += \
    libaudio_shim \
    audiofix
 
-RODUCT_PACKAGES += \
+PRODUCT_PACKAGES += \
     libladder \
     libudf
     
