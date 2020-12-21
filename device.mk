@@ -62,6 +62,10 @@ PRODUCT_PACKAGES += \
    libaudio_shim \
    audiofix
 
+RODUCT_PACKAGES += \
+    libladder \
+    libudf
+    
 # Wi-Fi
 PRODUCT_PACKAGES += \
     libwpa_client \
