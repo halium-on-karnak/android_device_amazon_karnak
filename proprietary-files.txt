@@ -432,6 +432,7 @@ vendor/lib/vendor.mediatek.hardware.nvram@1.0.so
 vendor/lib/vendor.mediatek.hardware.nvram@1.1.so
 vendor/lib/vendor.mediatek.hardware.power@2.0.so
 vendor/lib/vendor.mediatek.hardware.radio@3.0.so
+vendor/lib/libdpframework.so
 vendor/odm/etc/vintf/manifest_dsds
 vendor/odm/etc/vintf/manifest_qsqs
 vendor/odm/etc/vintf/manifest_ss
